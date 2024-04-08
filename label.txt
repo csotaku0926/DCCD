@@ -1,0 +1,16 @@
+# 2-way labels:
+# 0-false
+# 1-true
+
+# 6-way labels: 
+# 0-true
+# 1-satire
+# 2-false connection
+# 3-imposter content
+# 4-manipulated content
+# 5-misleading content
+
+# The 3-way labels are:
+# 0-true
+# 1-fake with true text
+# 2-fake with false text
